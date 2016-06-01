@@ -1,7 +1,7 @@
 Balloons
 ========
 
-Balloons est un jeu d'action où vous devrez éclater le maximum de ballons durant le temps impartit.  
+Balloons est un jeu d'arcade où vous devrez éclater le maximum de ballons durant le temps impartit.  
 Plus le temps passe, plus les ballons arrivent vite, bon courage.  
 
 Un petit bonus est attribué à ceux qui arriveront à éclater plusieurs ballons d'un seul coup.  
@@ -26,7 +26,7 @@ Apperçu :
 
 --------
 
-Balloons is an action game where you have to pop as many balloons as possible during the time specified.  
+Balloons is an arcade game where you have to pop as many balloons as possible during the time specified.  
 The more time passes, more balloons appear soon, good luck.  
 
 A small bonus is awarded to those who manage to break more balloons in one go.  
