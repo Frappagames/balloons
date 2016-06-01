@@ -1,0 +1,215 @@
+
+balloons.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+fenetre
+  rotate: false
+  xy: 1, 479
+  size: 408, 516
+  orig: 408, 516
+  offset: 0, 0
+  index: -1
+btnPlay
+  rotate: false
+  xy: 1, 276
+  size: 192, 201
+  orig: 192, 201
+  offset: 0, 0
+  index: -1
+btnPlayOver
+  rotate: false
+  xy: 411, 794
+  size: 192, 201
+  orig: 192, 201
+  offset: 0, 0
+  index: -1
+balloon_black
+  rotate: false
+  xy: 1, 108
+  size: 128, 166
+  orig: 128, 166
+  offset: 0, 0
+  index: -1
+balloon_blue
+  rotate: false
+  xy: 195, 311
+  size: 128, 166
+  orig: 128, 166
+  offset: 0, 0
+  index: -1
+balloon_gold
+  rotate: false
+  xy: 411, 626
+  size: 128, 166
+  orig: 128, 166
+  offset: 0, 0
+  index: -1
+balloon_gray
+  rotate: false
+  xy: 605, 829
+  size: 128, 166
+  orig: 128, 166
+  offset: 0, 0
+  index: -1
+balloon_green
+  rotate: false
+  xy: 735, 829
+  size: 128, 166
+  orig: 128, 166
+  offset: 0, 0
+  index: -1
+balloon_green2
+  rotate: false
+  xy: 865, 829
+  size: 128, 166
+  orig: 128, 166
+  offset: 0, 0
+  index: -1
+balloon_marron
+  rotate: false
+  xy: 411, 458
+  size: 128, 166
+  orig: 128, 166
+  offset: 0, 0
+  index: -1
+balloon_orange
+  rotate: false
+  xy: 131, 108
+  size: 128, 166
+  orig: 128, 166
+  offset: 0, 0
+  index: -1
+balloon_pink
+  rotate: false
+  xy: 541, 626
+  size: 128, 166
+  orig: 128, 166
+  offset: 0, 0
+  index: -1
+balloon_pink2
+  rotate: false
+  xy: 541, 458
+  size: 128, 166
+  orig: 128, 166
+  offset: 0, 0
+  index: -1
+balloon_purple
+  rotate: false
+  xy: 671, 661
+  size: 128, 166
+  orig: 128, 166
+  offset: 0, 0
+  index: -1
+balloon_red
+  rotate: false
+  xy: 671, 493
+  size: 128, 166
+  orig: 128, 166
+  offset: 0, 0
+  index: -1
+balloon_turkoise
+  rotate: false
+  xy: 801, 661
+  size: 128, 166
+  orig: 128, 166
+  offset: 0, 0
+  index: -1
+balloon_white
+  rotate: false
+  xy: 801, 493
+  size: 128, 166
+  orig: 128, 166
+  offset: 0, 0
+  index: -1
+etoile-g
+  rotate: false
+  xy: 931, 738
+  size: 92, 89
+  orig: 92, 89
+  offset: 0, 0
+  index: -1
+btn-exit-over
+  rotate: false
+  xy: 1, 1
+  size: 101, 105
+  orig: 101, 105
+  offset: 0, 0
+  index: -1
+btn-exit
+  rotate: false
+  xy: 104, 1
+  size: 100, 105
+  orig: 100, 105
+  offset: 0, 0
+  index: -1
+btn-home-over
+  rotate: false
+  xy: 206, 1
+  size: 100, 105
+  orig: 100, 105
+  offset: 0, 0
+  index: -1
+etoile-s
+  rotate: false
+  xy: 325, 410
+  size: 70, 67
+  orig: 70, 67
+  offset: 0, 0
+  index: -1
+btn-home
+  rotate: false
+  xy: 325, 303
+  size: 100, 105
+  orig: 100, 105
+  offset: 0, 0
+  index: -1
+btn-replay-over
+  rotate: false
+  xy: 427, 351
+  size: 100, 105
+  orig: 100, 105
+  offset: 0, 0
+  index: -1
+btn-replay
+  rotate: false
+  xy: 529, 351
+  size: 100, 105
+  orig: 100, 105
+  offset: 0, 0
+  index: -1
+music-off
+  rotate: false
+  xy: 427, 244
+  size: 100, 105
+  orig: 100, 105
+  offset: 0, 0
+  index: -1
+music-on
+  rotate: false
+  xy: 529, 244
+  size: 100, 105
+  orig: 100, 105
+  offset: 0, 0
+  index: -1
+sound-off
+  rotate: false
+  xy: 631, 351
+  size: 100, 105
+  orig: 100, 105
+  offset: 0, 0
+  index: -1
+sound-on
+  rotate: false
+  xy: 631, 244
+  size: 100, 105
+  orig: 100, 105
+  offset: 0, 0
+  index: -1
+cocarde
+  rotate: false
+  xy: 931, 664
+  size: 54, 72
+  orig: 54, 72
+  offset: 0, 0
+  index: -1
