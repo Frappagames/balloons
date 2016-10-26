@@ -18,7 +18,7 @@ Mes outils :
 **Langage** : JAVA avec LibGDX  
 **Design** : GIMP / Inkscape
 
-Apperçu :
+Aperçu :
 ---------
 
 ![Aperçu](https://raw.githubusercontent.com/Frappagames/balloons/master/design_sources/preview.jpg)
