@@ -21,7 +21,7 @@ Mes outils :
 Apperçu :
 ---------
 
-![Aperçu](https://raw.githubusercontent.com/neeftarah/balloons/master/design_sources/preview.jpg)
+![Aperçu](https://raw.githubusercontent.com/Frappagames/balloons/master/design_sources/preview.jpg)
 
 
 --------
